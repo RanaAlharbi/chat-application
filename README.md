@@ -1,5 +1,4 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/zQD35C90)
-## **1\. Introduction**
+
 
 The purpose of this assessment is to evaluate your ability to design and implement a real-time chat application using **Flutter**, **Bloc**, and **Supabase**.  
 You will develop a **Chat Application (Lab)** that supports both **private messaging** and **group conversations**. The project focuses on mastering **state management**, **real-time database communication**, and **clean architecture design**.
