@@ -1,0 +1,31 @@
+name: lab_supabase
+description: "A new Flutter project."
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: ^3.9.2
+
+dependencies:
+  dart_mappable: ^4.6.1
+  flutter:
+    sdk: flutter
+  flutter_bloc: ^9.1.1
+  flutter_screenutil: ^5.9.3
+  gap: ^3.0.1
+  shared_preferences: ^2.5.3
+  stream: ^4.2.2
+  supabase_flutter: ^2.10.3
+  uuid: ^4.5.1
+  app_links: ^6.4.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assests/images/
+    - assests/images/SignUp/
